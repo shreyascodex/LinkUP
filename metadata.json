@@ -1,0 +1,6 @@
+{
+  "name": "LinkUp",
+  "description": "LinkUp — Stay connected. Chat together. Real-time private and group messaging platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
